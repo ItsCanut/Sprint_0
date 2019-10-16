@@ -23,6 +23,7 @@ public class ReceptorBLE {
 
             Log.e("trama beacon","Trama beacon recibida");
 
+            
 
         }
     };
