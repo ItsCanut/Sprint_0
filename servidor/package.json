@@ -1,0 +1,11 @@
+{
+	"name": "servidor-sprint-0",
+	"description": "servidor usado para el sprint 0",
+	"version": "1.0.0",
+	"main": "mainServidorREST.js",
+	"dependencies": {
+		"express": "^4.17.1",
+		"moment": "*",
+		"sqlite3": "*"
+	}
+}
